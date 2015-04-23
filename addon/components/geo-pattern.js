@@ -12,7 +12,7 @@ export default Ember.Component.extend({
       baseColor: this.get('baseColor'),
       generator: this.get('generator')
     });
-    return `background-image: ${pattern.toDataUrl()}`;
+    return Ember.String.htmlSafe(`background-image: ${pattern.toDataUrl()}`);
   }),
 
   value: ''
