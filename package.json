@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-geopattern",
   "version": "0.1.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Generate colorful geometric SVG patterns from input strings - great for avatars, placeholder images, etc.",
   "directories": {
     "doc": "doc",
     "test": "tests"
