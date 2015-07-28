@@ -1,6 +1,6 @@
 # ember-cli-geopattern
 
-Component wrapper for the [geopattern library](https://github.com/btmills/geopattern).
+Generate colorful geometric SVG patterns from input strings - great for avatars, placeholder images, etc. Uses the [geopattern library](https://github.com/btmills/geopattern) to generate the patterns.
 
 ## Installing
 
